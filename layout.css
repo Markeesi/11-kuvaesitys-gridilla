@@ -24,7 +24,7 @@ h1 a {
   display: grid;
   grid-template-columns: repeat(8, 1fr);
   grid-template-rows: repeat(8, 5vw);
-  grid-gap: 15px;
+  grid-gap: 1.5rem;
 }
 
 .galleria__kuva {
